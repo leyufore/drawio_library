@@ -60,8 +60,8 @@
     "aspect": "fixed"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;span style=&amp;quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&amp;quot;&amp;gt;判断节点&amp;lt;/span&amp;gt;\" style=\"rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 100,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;\" value=\"&amp;lt;span style=&amp;quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&amp;quot;&amp;gt;判断节点&amp;lt;/span&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 150,
     "h": 30,
     "aspect": "fixed"
   },
